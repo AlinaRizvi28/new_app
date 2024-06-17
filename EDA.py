@@ -144,5 +144,4 @@ def main():
         st.write("## Machine Learning Model Training and Evaluation")
         train_and_evaluate_model(df)
 
-if _name_ == "_main_":
-    main()
+
